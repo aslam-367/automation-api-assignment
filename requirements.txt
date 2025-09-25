@@ -1,0 +1,6 @@
+pytest
+requests
+faker
+pyyaml
+pytest-html
+
